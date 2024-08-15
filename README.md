@@ -1,1 +1,1 @@
-**Description**: Some practises data visualization on datacamp
+**Description**: Some practises of data visualization on datacamp
